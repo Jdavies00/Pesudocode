@@ -1,4 +1,6 @@
 //Pseudocod to buil a pc
+
+
 PROMPT: Input Pringe Range
   INPUT: Price Range = x 
      if x <=500
