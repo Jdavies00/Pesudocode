@@ -1,5 +1,4 @@
-START: Build a PC
-
+//Pseudocod to buil a pc
 PROMPT: Input Pringe Range
   INPUT: Price Range = x 
      if x <=500
@@ -10,7 +9,7 @@ PROMPT: Input Pringe Range
         then PRINT HighTeirBuild
  
  PROMPT: Press Enter For Build Instructions
-  INPUT: ENTER
+ INPUT: ENTER
   
  FIND working space
  CLEAR working space for build 
